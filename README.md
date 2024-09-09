@@ -22,4 +22,4 @@ The application allows the creation of logos based on responses to Inquirer prom
 
 ## Walkthrough Video of Application
 
-![Walkthrough video of the SVG Logo Maker application.](examples/SVGLogoMakerWalkthrough.mov)
+![Walkthrough video of the SVG Logo Maker application. Click this link and select "View Raw" to download the walkthrough video.](examples/SVGLogoMakerWalkthrough.mov)
